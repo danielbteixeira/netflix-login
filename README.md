@@ -1,7 +1,7 @@
 # netflix-login
 Este projeto é um clone simples da tela de login da Netflix, criada com HTML e CSS para fins de aprendizado.
 
-![Screenshot](img/preview.png)
+![Screenshot](img/Preview.png)
 
 ## 🛠️ Tecnologias utilizadas
 **HTML** para estruturação do conteúdo.
